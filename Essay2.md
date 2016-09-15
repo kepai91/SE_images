@@ -10,6 +10,6 @@ Terraform uses a high-level configuration file that describes the resources that
 2. Set the path variable according to your system, using the following links: for [Mac/Linux](https://stackoverflow.com/questions/14637979/how-to-permanently-set-path-on-linux), for [Windows](https://stackoverflow.com/questions/1618280/where-can-i-set-path-to-make-exe-on-windows)
 3. Verify installation by running the terraform on the command line.
 
-![Installing](https://github.com/kepai91/SE_images/blob/master/terraform_installation.png)
+![Installing](https://github.com/kepai91/SE_images/blob/master/terraform_installation.png =200px)
 
 ### Example:
